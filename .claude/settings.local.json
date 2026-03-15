@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python quick_eda.py)",
+      "Bash(find \"/Users/quangminh/QuangMinh/MSE35HN/Ky_[II]/[2.2] MLE501. Tri tue nhan tao 01_Hoc may/[4] Final Project/Give Me Some Credit/data/\" -type f -exec du -sh {})"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
